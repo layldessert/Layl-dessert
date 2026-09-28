@@ -10,6 +10,14 @@
 <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;900&family=Great+Vibes&family=Tajawal:wght@300;400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/css/style.css" />
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script>
+  if (window.location.hash === '#signup') {
+    window.netlifyIdentity.open('signup');
+  }
+  if (window.location.hash === '#login') {
+    window.netlifyIdentity.open('login');
+  }
+</script>
 </head>
 <body>
 
