@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "name": "Choco Nest",
+      "description": "حلوى شوكولاتة غنية، محشية بكيك الشوكولاتة والكنافة المقرمشة، ومغطاة بطبقة شوكولاتة ناعمة.",
+      "price": 1.00,
+      "category": "شوكولاتة",
+      "image": "images/choco-nest.jpg",
+      "available": true
+    },
+    {
+      "name": "Midnight Cake",
+      "description": "طبقات من البسكوت مع الحليب المكثف والقشطة، تتوسطها طبقة كريمية، وتُختتم بطبقة غنية من الشوكولاتة.",
+      "price": 1.50,
+      "category": "كيك",
+      "image": "images/midnight-cake.jpg",
+      "available": true
+    },
+    {
+      "name": "Cookie Croissant",
+      "description": "كرواسون طازج ومقرمش، مغطى بقطع كوكيز الشوكولاتة الغنية.",
+      "price": 2.00,
+      "category": "كرواسون",
+      "image": "images/cookie-croissant.jpg",
+      "available": true
+    },
+    {
+      "name": "Caramel Cheese Taco",
+      "description": "تاكو تشيز كيك مقرمش، محشو بكريمة التشيز كيك، ومغطى بالكراميل وقطع الكرنشي.",
+      "price": 1.50,
+      "category": "حلويات",
+      "image": "images/caramel-cheese-taco.jpg",
+      "available": true
+    },
+    {
+      "name": "Lemon & Marshmallow Cookies",
+      "description": "كوكيز طرية مع صوص الليمون المنعش، مغطاة بالمارشميلو المحمّص.",
+      "price": 1.50,
+      "category": "كوكيز",
+      "image": "images/lemon-marshmallow-cookies.jpg",
+      "available": true
+    },
+    {
+      "name": "Tiramisu Cookies",
+      "description": "كوكيز طرية غنية بالقهوة، مغطاة بكريمة التيراميسو ورشة شوكولاتة.",
+      "price": 1.50,
+      "category": "كوكيز",
+      "image": "images/tiramisu-cookies.jpg",
+      "available": true
+    },
+    {
+      "name": "Crunchy Caramel Cookies",
+      "description": "كوكيز طرية محشية بالكراميل الكرنشي، مع قطع الشوكولاتة ورشة ملح خفيفة.",
+      "price": 1.50,
+      "category": "كوكيز",
+      "image": "images/crunchy-caramel-cookies.jpg",
+      "available": true
+    },
+    {
+      "name": "Classic Cookies",
+      "description": "كوكيز كلاسيكية طرية وغنية بقطع الشوكولاتة، مخبوزة بإتقان مع لمسة خفيفة من الملح.",
+      "price": 1.50,
+      "category": "كوكيز",
+      "image": "images/classic-cookies.jpg",
+      "available": true
+    }
+  ]
+}
